@@ -1,0 +1,10 @@
+{
+  "project": {
+      "name": "NOW Wallet", 
+      "category": ["Wallet"],
+      "logo": "https://walletnow.app/images/logo.svg",
+      "description": "A non-custodial wallet developed by ChangeNOW that supports supports over 40 blockchains, including BTC, ETH, CRO, TRON, DOGE, and XMR, as well as over 500 cryptocurrencies with a built-in exchanger and fiat-on ramp.",
+      "link": "https://walletnow.app/",
+      "twitter": "https://twitter.com/NOW_Wallet"
+  }
+}
